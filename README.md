@@ -1,4 +1,5 @@
-# team-project-ninjas
+# Hotel Management Application
+
 
 <h3>Tech Stack:</h3>
 
